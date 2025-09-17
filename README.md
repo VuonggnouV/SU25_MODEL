@@ -16,3 +16,11 @@ This is a system that helps high school students identify biological specimens.
 ## Expected results
 - The system is capable of classifying ~46 common species of organisms in Biology books.
 - Simple interface, easy to use for students and teachers.
+
+##Task list
+- Collect, Prepare, Process data : Hung
+- Model Resnet 50: Linh
+- Model EfficientNetV2M: Vuong
+- Model Yolo v8x : Hung
+- Model Yolo v8n : Thu
+- App Fe + Be : Vuong
